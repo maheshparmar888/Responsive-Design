@@ -296,7 +296,7 @@
 }
 
 input::placeholder {
-    color: black;
+    color: rgb(109, 89, 89);
     font-size: 17px;
 }
 
